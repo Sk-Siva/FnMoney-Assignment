@@ -27,7 +27,7 @@ const AssessmentDetail = () => {
     try {
       const userId = localStorage.getItem('userId');
 
-      const response = await fetch('http://localhost:5000/api/users/register-assessment', {
+      const response = await fetch('https://fn-money-assignment.vercel.app/api/users/register-assessment', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
