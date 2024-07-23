@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FnMoney-Assignment/static/css/main.e6c13ad2.css",
-    "main.js": "/FnMoney-Assignment/static/js/main.4a257738.js",
+    "main.js": "/FnMoney-Assignment/static/js/main.3b94ffed.js",
     "index.html": "/FnMoney-Assignment/index.html",
     "main.e6c13ad2.css.map": "/FnMoney-Assignment/static/css/main.e6c13ad2.css.map",
-    "main.4a257738.js.map": "/FnMoney-Assignment/static/js/main.4a257738.js.map"
+    "main.3b94ffed.js.map": "/FnMoney-Assignment/static/js/main.3b94ffed.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4a257738.js"
+    "static/js/main.3b94ffed.js"
   ]
 }
