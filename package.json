@@ -1,0 +1,13 @@
+
+{
+  "name": "fnmoney-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start:frontend": "cd frontend && npm start",
+    "start:backend": "cd backend && npm start",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
